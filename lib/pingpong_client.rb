@@ -1,5 +1,4 @@
 require 'socket'
-require 'rubygems'
 require 'json'
 
 module Pingpong
