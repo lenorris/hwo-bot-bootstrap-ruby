@@ -1,3 +1,3 @@
 require 'rubygems'
 require 'bundler/setup'
-require_relative 'lib/pingpong_client'
+require_relative 'pingpong_client'
