@@ -39,8 +39,3 @@ module Pingpong
     end
   end
 end
-
-player_name = ARGV[0]
-server_host = ARGV[1]
-server_port = ARGV[2]
-client = Pingpong::Client.new(player_name, server_host, server_port)
