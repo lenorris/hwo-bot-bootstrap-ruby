@@ -1,7 +1,6 @@
 require 'socket'
 require 'rubygems'
 require 'json'
-require 'fileutils'
 
 module Pingpong
   class Client
