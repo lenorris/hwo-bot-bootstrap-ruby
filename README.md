@@ -6,7 +6,7 @@ NOTICE: The test server enforces a threshold of 10 messages per client in a seco
 
 ## Requires
 
-[bundler](http://gembundler.com/)
+Ruby 1.9 and [bundler](http://gembundler.com/)
 
 Run `sudo gem install bundler` before building
 
